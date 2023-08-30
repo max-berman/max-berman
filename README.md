@@ -25,7 +25,7 @@ What particularly captivates me is the fusion of gaming combined with the capabi
 --
 
 <img src="https://naknick.com/images/image3.png#gh-light-mode-only" width="150"><br/>
-[TindHancer](https://github.com/max-berman/TindHancer.com) - Free Add-on enhancements for users to bypass Tinder’s subscription. Targets people who liked your profile and notifies you about them | Free geolocation changer | Auto Swiper Bot | Share profiles with your friends.<br/>(Reverse-engineered Tinder’s API)<br>
+[TindHancer](https://github.com/max-berman/TindHancer.com) - Free Add-on enhancements for users to bypass Tinder’s subscription.(Reverse engineered Tinder's API) <br/>Targets people who liked your profile and notifies you about them | Free geolocation changer | Auto Swiper Bot | Share profiles with your friends.<br/>
 [Demo](https://www.youtube.com/watch?v=Lmvf4Tyg-jA)
 
 --
