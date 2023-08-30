@@ -4,7 +4,7 @@
 <img src="https://naknick.com/images/image4.png" width="150"><br>
 [TopFrog.io](https://topfrog.io) - Provides casual gamers the ability to earn meme coins at playing arcades by incentivizing game-play via blockchain powered leader-board ranking.
 
----
+--
 
 <img src="https://naknick.com/images/image9.png#gh-light-mode-only" width="150"><br>
 [PlayLikeScrooge](https://playlikescrooge.com/) 
@@ -13,7 +13,7 @@
 * Switch Friend finder 
 * Efficient games list manager for Switch Console
 
----
+--
 
 <img src="https://naknick.com/images/image5.png#gh-dark-mode-only" width="150"><br>
 At [NakNick.com](https://naknick.com) I tinker with different game concepts, blending classic mechanics from retro titles with my own twist to craft gaming experiences that offer modern convenience and casual gameplay, easily integrated into the web/web3 ecosystem.
@@ -22,14 +22,14 @@ At [NakNick.com](https://naknick.com) I tinker with different game concepts, ble
 
 What particularly captivates me is the fusion of gaming combined with the capabilities of Blockchain tech which led to the inception of TopFrog.io
 
----
+--
 
 <img src="https://naknick.com/images/image3.png#gh-light-mode-only" width="150"><br>
 [TindHancer](https://github.com/max-berman/TindHancer.com) - Free Add-on enhancements for users to bypass Tinder’s subscription. Targets people who liked your profile and notifies you about them | Free geolocation changer | Auto Swiper Bot | Share profiles with your friends.
 (Leveraging reversed engineered Tinder’s API)<br>
 [Demo](https://www.youtube.com/watch?v=Lmvf4Tyg-jA)
 
----
+--
 
 <img src="https://naknick.com/images/image2.png#gh-light-mode-only" width="150"><br>
 In my previous venture, I founded [PlayChap](https://vimeo.com/345640403), a multiplayer arcade platform that allowed users to wager cryptocurrency on competitive arcade gameplay. While the platform is no longer accessible, you can catch a glimpse of the entire user flow in action in [Demo](https://www.youtube.com/watch?v=ZvxMv9tc2lk)
