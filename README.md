@@ -1,7 +1,7 @@
 ## My Gigs
 
 As an indie hacker with a background in software engineering and with an insatiable appetite for innovation I have a keen interest in spotting untapped market niches.
-I have a diverse range of self-built products ranging from dating apps to web3 applications, and from a network of gaming websites to full-fledged gaming platforms.
+I self-built a diverse array of products ranging from dating apps to web3 applications, and from a network of gaming websites to full-fledged gaming platforms.
 
 --
 
