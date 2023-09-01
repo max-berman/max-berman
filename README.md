@@ -1,5 +1,9 @@
-# My Gigs
+## My Gigs
 
+As an indie hacker with a background in software engineering and with an insatiable appetite for innovation I have a keen interest in spotting untapped market niches.
+I have a diverse range of self-built products ranging from dating apps to web3 applications, and from a network of gaming websites to full-fledged gaming platforms.
+
+--
 
 <img src="https://naknick.com/images/image4.png" width="150"><br>
 [TopFrog.io](https://topfrog.io) - Provides casual gamers the ability to earn meme coins at playing arcades by incentivizing game-play via blockchain powered leader-board ranking.
