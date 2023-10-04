@@ -36,8 +36,17 @@ While the platform is no longer accessible, you can catch a glimpse of the entir
 --
 
 <img src="https://naknick.com/images/image3.png#gh-light-mode-only" width="150"><br/>
-[TindHancer](https://github.com/max-berman/TindHancer.com) - Free Add-on enhancements(reverse engineered Tinder's API) that not only allows users to bypass Tinder's subscription and access its premium features but also introduces new functionalities like an Auto Swiper Bot and the ability to share profiles with friends.
+Built a standalone web-application [TindHancer](https://github.com/max-berman/TindHancer.com) by reverse engineering Tinder's API, which allowed users to bypass Tinder's subscription model and access premium features for free, including:<br/>
+- 😍 Seeing who likes you on Tinder without paying
+- 🌎 Changing geo-location
+
+TindHancer also introduced new features such as:<br/>
+- 🤖 An auto swiper bot to automate liking profiles
+- 👥 The ability to share profiles with friends
+- 🕵 Infinite scrolling to browse profiles rather than swiping
+  
 [Demo](https://www.youtube.com/watch?v=Lmvf4Tyg-jA)
+
 
 --
 
