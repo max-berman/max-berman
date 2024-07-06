@@ -3,7 +3,7 @@
 As an indie hacker with a background in software engineering and with an avid appetite for innovation I have a keen interest in spotting untapped market niches.
 I self-built a diverse array of small products ranging from dating apps to Web3 Dapps, and from a network of gaming websites to fully developed games and gaming platforms.
 
-My favorite tech gear: JavaScript | React | Node.js | Firebase | EVM Chains
+What particularly captivates me is the fusion of gaming combined with the capabilities of Blockchain and Web3 tech which led to the inception of [PlayChap](https://vimeo.com/345640403) & [TopFrog.io](https://topfrog.io)
 
 --
 
