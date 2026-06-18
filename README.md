@@ -14,11 +14,16 @@
 ### [`QuizBooth.games`](https://quizbooth.games/)   
 `AI-powered custom trivia questions builder for trade shows and events, it helps exhibitors capture leads while visitors have fun competing for prizes.`  
 
-### TopFrog  
+### TopFrog
+
+*`Currently is on pause`*
+
 **`B2C`** `- Provides casual gamers the ability to earn meme/stable coins at playing casual skill games by incentivizing gameplay via blockchain-powered leaderboard ranking system`  
 **`B2B`** `- In-game branding & sponsorships via highly engaged competitions`
+
 [Concept Design](https://max-berman.github.io/leaderboard-mvp/)
-*`Currently is on pause`*
+
+
 
 ### PlayChap
 `Bootstrapped PlayChap.io, a multiplayer arcade platform that enabled users to wager cryptocurrency on competitive arcade gameplay.`   
